@@ -1,4 +1,4 @@
-# Obcura
+# Obscura
 Game demo project.
 
 ## Docs
