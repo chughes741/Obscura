@@ -2,4 +2,4 @@
 Game demo project.
 
 ## Docs
-- [Project overview](docs/overview.md)
+- [Wiki](https://github.com/chughes741/Obscura/wiki)
